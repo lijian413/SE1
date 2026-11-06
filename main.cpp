@@ -1,3 +1,4 @@
+#//This program is just a example one under VCS.
 #include <iostream>
 
 using namespace std;
