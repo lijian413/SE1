@@ -1,5 +1,5 @@
-#// Author: Li Jiantao, group §±-161, 2026
-#//This program is just a example one under VCS.
+// Author: Li Jiantao, group P-161, 2026
+//This program is just a example one under VCS.
 #include <iostream>
 
 using namespace std;
